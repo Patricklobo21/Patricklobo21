@@ -161,9 +161,9 @@
 </tr> 
 </table>
 </div>
-<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Patricklobo21"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/Patricklobo21?style=social"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/Patricklobo21/joaopauloaramuni?logo=git"/>
 <a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
